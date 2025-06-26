@@ -1,2 +1,2 @@
 # book-clustering-analysis
-Project 6: A Comparative Analysis of Clustering Algorithms for Book Datasets
+Project 6: Analysis of Clustering Algorithm for Book Datasets
