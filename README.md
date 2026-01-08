@@ -1,6 +1,6 @@
 # Project 6: Clustering - Amazon Books Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatElite/book-clustering-analysis/blob/main/Clustering- Amazon_Books_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatElite/book-clustering-analysis/blob/main/Clustering-Amazon_Books_Analysis.ipynb)
 
 ## Overview
 This project implements the **BFR (Bradley, Fayyad, and Reina) Algorithm** from scratch to perform scalable clustering on the Amazon Books Reviews dataset. It processes data in chunks to handle memory constraints and identifies distinct market segments based on price, ratings, and review counts.
