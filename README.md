@@ -11,6 +11,6 @@ This project implements the **BFR (Bradley, Fayyad, and Reina) Algorithm** from 
 3.  When prompted, upload your personal `kaggle.json` API token (downloadable from your Kaggle account settings). The notebook will automatically handle the authentication and dataset download.
 
 ## Repository Structure
-* `AMDS_project.ipynb`: The main notebook containing the BFR implementation and analysis.
+* `Clustering - Amazon Books Analysis.ipynb`: The main notebook containing the BFR implementation and analysis.
 * `Report.pdf`: The final academic report summarizing methodology and findings.
 * `README.md`: Project documentation.
