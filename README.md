@@ -12,5 +12,5 @@ This project implements the **BFR (Bradley, Fayyad, and Reina) Algorithm** from 
 
 ## Repository Structure
 * `Clustering - Amazon Books Analysis.ipynb`: The main notebook containing the BFR implementation and analysis.
-* `Report.pdf`: The final academic report summarizing methodology and findings.
+* `Project_Report.pdf`: The final academic report summarizing methodology and findings.
 * `README.md`: Project documentation.
